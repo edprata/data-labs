@@ -1,0 +1,14 @@
+venv
+*.pyc
+staticfiles
+.env
+db.sqlite3
+getting-started/*
+.DS_STORE
+articles/*.fls
+articles/*.log
+articles/*.out
+articles/*.aux
+articles/*.blg
+articles/*.gz
+articles/*.fdb_latexmk
