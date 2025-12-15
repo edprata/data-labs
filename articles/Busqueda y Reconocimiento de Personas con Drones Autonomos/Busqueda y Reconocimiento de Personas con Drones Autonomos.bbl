@@ -1,0 +1,271 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{FEMA2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a0b25fd58e7740268a8537e8c5f9248e}{%
+           family={Agency},
+           familyi={A\bibinitperiod},
+           given={Federal\bibnamedelimb Emergency\bibnamedelima Management},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a0b25fd58e7740268a8537e8c5f9248e}
+      \strng{fullhash}{a0b25fd58e7740268a8537e8c5f9248e}
+      \strng{fullhashraw}{a0b25fd58e7740268a8537e8c5f9248e}
+      \strng{bibnamehash}{a0b25fd58e7740268a8537e8c5f9248e}
+      \strng{authorbibnamehash}{a0b25fd58e7740268a8537e8c5f9248e}
+      \strng{authornamehash}{a0b25fd58e7740268a8537e8c5f9248e}
+      \strng{authorfullhash}{a0b25fd58e7740268a8537e8c5f9248e}
+      \strng{authorfullhashraw}{a0b25fd58e7740268a8537e8c5f9248e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{FEMA Reports}
+      \field{title}{Cost Analysis for Rescue Operations 2024}
+      \field{year}{2024}
+    \endentry
+    \entry{Chen2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=802879972afa5bd206c5988365d10ca8}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{802879972afa5bd206c5988365d10ca8}
+      \strng{fullhash}{802879972afa5bd206c5988365d10ca8}
+      \strng{fullhashraw}{802879972afa5bd206c5988365d10ca8}
+      \strng{bibnamehash}{802879972afa5bd206c5988365d10ca8}
+      \strng{authorbibnamehash}{802879972afa5bd206c5988365d10ca8}
+      \strng{authornamehash}{802879972afa5bd206c5988365d10ca8}
+      \strng{authorfullhash}{802879972afa5bd206c5988365d10ca8}
+      \strng{authorfullhashraw}{802879972afa5bd206c5988365d10ca8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2401.12345}
+      \field{title}{Edge Computing in Autonomous Rescue Systems}
+      \field{year}{2024}
+    \endentry
+    \entry{UNDRR2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a24f1dcec9d2262621293b092d700dd}{%
+           family={Disaster\bibnamedelimb Risk\bibnamedelima Reduction},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={United\bibnamedelimb Nations\bibnamedelima Office},
+           giveni={U\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0,
+           prefix={for},
+           prefixi={f\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{5a24f1dcec9d2262621293b092d700dd}
+      \strng{fullhash}{5a24f1dcec9d2262621293b092d700dd}
+      \strng{fullhashraw}{5a24f1dcec9d2262621293b092d700dd}
+      \strng{bibnamehash}{5a24f1dcec9d2262621293b092d700dd}
+      \strng{authorbibnamehash}{5a24f1dcec9d2262621293b092d700dd}
+      \strng{authornamehash}{5a24f1dcec9d2262621293b092d700dd}
+      \strng{authorfullhash}{5a24f1dcec9d2262621293b092d700dd}
+      \strng{authorfullhashraw}{5a24f1dcec9d2262621293b092d700dd}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{UNDRR Reports}
+      \field{title}{Global Disaster Relief Report 2024}
+      \field{year}{2024}
+    \endentry
+    \entry{Liu2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b44bba1743c2ad874f7d960887af663}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b44bba1743c2ad874f7d960887af663}
+      \strng{fullhash}{4b44bba1743c2ad874f7d960887af663}
+      \strng{fullhashraw}{4b44bba1743c2ad874f7d960887af663}
+      \strng{bibnamehash}{4b44bba1743c2ad874f7d960887af663}
+      \strng{authorbibnamehash}{4b44bba1743c2ad874f7d960887af663}
+      \strng{authornamehash}{4b44bba1743c2ad874f7d960887af663}
+      \strng{authorfullhash}{4b44bba1743c2ad874f7d960887af663}
+      \strng{authorfullhashraw}{4b44bba1743c2ad874f7d960887af663}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Robotics and Automation Letters}
+      \field{title}{Infrastructure Requirements for Rescue Drones}
+      \field{year}{2023}
+    \endentry
+    \entry{MarketsandMarkets2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4fb21352ee4fd5af5b5cc9e7b5714e5f}{%
+           family={MarketsandMarkets},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fb21352ee4fd5af5b5cc9e7b5714e5f}
+      \strng{fullhash}{4fb21352ee4fd5af5b5cc9e7b5714e5f}
+      \strng{fullhashraw}{4fb21352ee4fd5af5b5cc9e7b5714e5f}
+      \strng{bibnamehash}{4fb21352ee4fd5af5b5cc9e7b5714e5f}
+      \strng{authorbibnamehash}{4fb21352ee4fd5af5b5cc9e7b5714e5f}
+      \strng{authornamehash}{4fb21352ee4fd5af5b5cc9e7b5714e5f}
+      \strng{authorfullhash}{4fb21352ee4fd5af5b5cc9e7b5714e5f}
+      \strng{authorfullhashraw}{4fb21352ee4fd5af5b5cc9e7b5714e5f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MarketsandMarkets Reports}
+      \field{title}{Drone Search and Rescue Market Forecast 2024}
+      \field{year}{2024}
+    \endentry
+    \entry{ILO2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cefe0933a62822805c8f5f81cb7c26a6}{%
+           family={Organization},
+           familyi={O\bibinitperiod},
+           given={International\bibnamedelima Labour},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cefe0933a62822805c8f5f81cb7c26a6}
+      \strng{fullhash}{cefe0933a62822805c8f5f81cb7c26a6}
+      \strng{fullhashraw}{cefe0933a62822805c8f5f81cb7c26a6}
+      \strng{bibnamehash}{cefe0933a62822805c8f5f81cb7c26a6}
+      \strng{authorbibnamehash}{cefe0933a62822805c8f5f81cb7c26a6}
+      \strng{authornamehash}{cefe0933a62822805c8f5f81cb7c26a6}
+      \strng{authorfullhash}{cefe0933a62822805c8f5f81cb7c26a6}
+      \strng{authorfullhashraw}{cefe0933a62822805c8f5f81cb7c26a6}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ILO Publications}
+      \field{title}{Safety in Rescue Missions 2023}
+      \field{year}{2023}
+    \endentry
+    \entry{IFRC2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3daacdc03a888c1fb56c1686c75d5c0d}{%
+           family={Red\bibnamedelima Cross},
+           familyi={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={International\bibnamedelima Federation},
+           giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{3daacdc03a888c1fb56c1686c75d5c0d}
+      \strng{fullhash}{3daacdc03a888c1fb56c1686c75d5c0d}
+      \strng{fullhashraw}{3daacdc03a888c1fb56c1686c75d5c0d}
+      \strng{bibnamehash}{3daacdc03a888c1fb56c1686c75d5c0d}
+      \strng{authorbibnamehash}{3daacdc03a888c1fb56c1686c75d5c0d}
+      \strng{authornamehash}{3daacdc03a888c1fb56c1686c75d5c0d}
+      \strng{authorfullhash}{3daacdc03a888c1fb56c1686c75d5c0d}
+      \strng{authorfullhashraw}{3daacdc03a888c1fb56c1686c75d5c0d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IFRC Publications}
+      \field{title}{Rescue Operations Statistics 2023}
+      \field{year}{2023}
+    \endentry
+    \entry{Wong2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4e0c48e5850e9d2f139e0f7a7abf58d6}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4e0c48e5850e9d2f139e0f7a7abf58d6}
+      \strng{fullhash}{4e0c48e5850e9d2f139e0f7a7abf58d6}
+      \strng{fullhashraw}{4e0c48e5850e9d2f139e0f7a7abf58d6}
+      \strng{bibnamehash}{4e0c48e5850e9d2f139e0f7a7abf58d6}
+      \strng{authorbibnamehash}{4e0c48e5850e9d2f139e0f7a7abf58d6}
+      \strng{authornamehash}{4e0c48e5850e9d2f139e0f7a7abf58d6}
+      \strng{authorfullhash}{4e0c48e5850e9d2f139e0f7a7abf58d6}
+      \strng{authorfullhashraw}{4e0c48e5850e9d2f139e0f7a7abf58d6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scopus Journal of AI}
+      \field{title}{Cognitive Models in Autonomous Drones}
+      \field{year}{2024}
+    \endentry
+    \entry{Zhang2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1f26f664835ac6c347db22001b657f1a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f26f664835ac6c347db22001b657f1a}
+      \strng{fullhash}{1f26f664835ac6c347db22001b657f1a}
+      \strng{fullhashraw}{1f26f664835ac6c347db22001b657f1a}
+      \strng{bibnamehash}{1f26f664835ac6c347db22001b657f1a}
+      \strng{authorbibnamehash}{1f26f664835ac6c347db22001b657f1a}
+      \strng{authornamehash}{1f26f664835ac6c347db22001b657f1a}
+      \strng{authorfullhash}{1f26f664835ac6c347db22001b657f1a}
+      \strng{authorfullhashraw}{1f26f664835ac6c347db22001b657f1a}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Robotics}
+      \field{title}{Context Adaptability in Autonomous Drones}
+      \field{year}{2024}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
