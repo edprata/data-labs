@@ -20,7 +20,7 @@ El objetivo de esta actividad es aplicar los conocimientos adquiridos para resol
 
 - [Repositorio en GiHub deste trabajo](https://github.com/edprata/data-labs/tree/main/analizador_de_sentimientos)
 
-- [Tutorial Rubrix](https://rubrix.readthedocs.io/en/master/tutorials/01-labeling-finetuning.html), de acuerdo con las instrucciones de la guía proporcionada para este trabajo.
+- [Tutorial Rubrix](https://rubrix.readthedocs.io/en/master/tutorials/01-labeling-finetuning.html)
 
 - [Tutorial Argilla](https://docs.v1.argilla.io/en/v1.14.0/tutorials/notebooks/training-textclassification-transformers-pretrained.html)
 
