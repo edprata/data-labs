@@ -13,3 +13,4 @@ articles/*.aux
 articles/*.blg
 articles/*.gz
 articles/*.fdb_latexmk
+redes_neuronales_convolucionales/datasets/
