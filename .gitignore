@@ -1,6 +1,7 @@
 venv
 vm
 *.pyc
+glove.6B*
 staticfiles
 .env
 db.sqlite3
